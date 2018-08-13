@@ -5,4 +5,9 @@ Requires an inbox with these letters. For faster performance and security, it's 
 
 An example of letters is given in Mail folder.
 
-Current version works with Skyscanner price update emails in 2015 - 2016.
+Current version works with Skyscanner price update emails in 2015 - 2016. Examples are shown below.
+
+![text](https://people.eng.unimelb.edu.au/ovedernikov/images/1.png)
+![text](https://people.eng.unimelb.edu.au/ovedernikov/images/2.png)
+![text](https://people.eng.unimelb.edu.au/ovedernikov/images/3.png)
+![text](https://people.eng.unimelb.edu.au/ovedernikov/images/4.png)
